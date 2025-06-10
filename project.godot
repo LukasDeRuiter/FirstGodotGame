@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="FourthdGame"
-run/main_scene="uid://cid3mrnfu1g0g"
+run/main_scene="uid://br6cs1kao8dhc"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
